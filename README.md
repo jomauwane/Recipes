@@ -1,7 +1,7 @@
 # Recipes
 
 ## My favorite recipes
-- Vetkoek and minve
+- Vetkoek and mince
 - Chicken stirfry
 
 # My-last-recipe
