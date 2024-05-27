@@ -1,7 +1,9 @@
 # Recipes
-<<<<<<< HEAD
 
 ## My favorite recipes
 - Vetkoek and mince
 - Chicken stirfry
->>>>>>> origin/main
+
+# My-last-recipe
+- Homebrew beer
+
